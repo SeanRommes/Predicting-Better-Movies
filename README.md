@@ -23,7 +23,8 @@ I also perfomed api calls to extract additional data.
 
 ![Screenshot (100)](https://user-images.githubusercontent.com/107956865/194787101-3098dfe6-3450-4b6d-9241-1a4c1d7840df.png)
 
-This plot demonstrates which movie genres generated the most revenue. Some generes were less common than others but earned more income by 'weight'
+This plot demonstrates which movie genres generated the most revenue. Some generes were less common than others but earned more income by 'weight'.
+For example in my data set I had 455 sci-fi movies and 4846 dramas. Sci-fi movies generated apx 79 billion ($78,959,170,000) and dramas apx 158 billion (158,780,200,000) in revenue during that 20 year period. By weight (count) sci-fi movies generated more money but dramas are more popular.
 
 ### Outcomes
 
