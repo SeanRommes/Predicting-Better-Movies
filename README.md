@@ -16,11 +16,13 @@ I also perfomed api calls to extract additional data.
 ### Visuals
 
 ![Screenshot (98)](https://user-images.githubusercontent.com/107956865/194787086-ce943a0c-b82b-430c-8ff8-c2ae39e676e2.png)
+
 ( I wish I could take credit for this masterpiece of a loop extraction, the for loop was provided by the education team from coding dojo. I just had to figure out how to get it to work and still needed a little extra help from my instructor Purvi Kansara :P )
 
 ![Screenshot (99)](https://user-images.githubusercontent.com/107956865/194787095-a928721c-ca91-4275-945a-24685c8faadc.png)
 
 ![Screenshot (100)](https://user-images.githubusercontent.com/107956865/194787101-3098dfe6-3450-4b6d-9241-1a4c1d7840df.png)
+
 This plot demonstrates which movie genres generated the most revenue. Some generes were less common than others but earned more income by 'weight'
 
 ### Outcomes
